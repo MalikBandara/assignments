@@ -54,5 +54,6 @@ Next.js: Developed and maintained by Vercel, with significant input from the ope
 Both React.js and Next.js have significantly influenced modern web development by promoting component-based architectures, enhancing performance through server-side rendering, and streamlining the development process with features like static site generation and API routes.
 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/332e2836-7006-4902-8746-bec30a532116)
+
 
